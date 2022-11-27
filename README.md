@@ -5,5 +5,5 @@
   JSON, fetch
 4. 환율정보 및 DOM 업데이트
 
-Demo: https://csslick.github.io/exchange-rate/
+Demo: https://exchangecal.netlify.app/
 
